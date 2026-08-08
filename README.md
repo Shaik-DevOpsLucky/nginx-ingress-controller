@@ -887,6 +887,11 @@ httpd-service
 
 ---
 
+<img width="1512" height="982" alt="Screenshot 2026-08-08 at 2 57 49 PM" src="https://github.com/user-attachments/assets/84a0f2f7-f7b3-4844-887a-5ddd9432c75b" />
+
+<img width="1512" height="982" alt="Screenshot 2026-08-08 at 2 57 40 PM" src="https://github.com/user-attachments/assets/6b6a6e9e-d327-4541-862e-89514fcdbdbb" />
+
+
 # 14. If you want browser testing
 
 You can temporarily add entries to your local `/etc/hosts`.
